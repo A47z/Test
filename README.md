@@ -1,7 +1,2 @@
 # amber
-Hello# amber
-# amber
-# amber
-# amber
-# amber
-# amber
+Hello
